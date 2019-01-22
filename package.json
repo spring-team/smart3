@@ -1,6 +1,6 @@
 {
   "name": "smart3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Vue-Express-Mongo BoilerPlate",
   "description": "my new project",
   "main": "server/index.js",
